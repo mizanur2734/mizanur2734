@@ -1,8 +1,15 @@
-<div className="w-full h-[50px] overflow-hidden">
+<div className="w-full h-[150px] overflow-hidden relative">
   <img 
     src="https://i.postimg.cc/zGSMdMXL/Chat-GPT-Image-Aug-16-2025-09-14-34-PM.png" 
     className="w-full h-full object-cover"
   />
+  {/* Overlay text/icons */}
+  <div className="absolute bottom-2 left-4 flex items-center space-x-2">
+    <svg className="w-4 h-4 text-white" fill="currentColor" viewBox="0 0 24 24">
+      {/* icon path */}
+    </svg>
+    <p className="text-xs text-white">Your text here</p>
+  </div>
 </div>
 <h1 align="left">Hi, I'm Mizanur Malita</h1>
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
