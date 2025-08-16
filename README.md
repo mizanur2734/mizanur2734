@@ -1,4 +1,4 @@
-<div className="w-full h-[100px] overflow-hidden">
+<div className="w-full h-20 overflow-hidden">
   <img 
     src="https://i.postimg.cc/zGSMdMXL/Chat-GPT-Image-Aug-16-2025-09-14-34-PM.png" 
     className="w-full h-full object-cover"
