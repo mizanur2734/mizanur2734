@@ -2,10 +2,10 @@
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 <h3 align="left">Frontend Developer</h3>
 <h3 align="left">About Me</h3>
-<p align="left">I am a Frontend Developer from Bangladesh, building responsive</br>
- web applications using React and modern UI frameworks.</br>
-I love turning ideas into real digital products and am </br>
-always eager to learn and collaborate on new projects.</p>
+<p align="left">I am a Frontend Developer from Bangladesh, building responsive web applications</br>
+  using React and modern UI frameworks. I love turning ideas into</br>
+ real digital products and am always eage </br>
+r to learn and collaborate on new projects.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanur2734&label=Profile%20views&color=0e75b6&style=flat" alt="mizanur2734" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mizanur2734" alt="mizanur2734" /></a> </p>
