@@ -1,6 +1,6 @@
 <img 
   src="https://i.postimg.cc/zGSMdMXL/Chat-GPT-Image-Aug-16-2025-09-14-34-PM.png" 
-  className="w-full h-[200px] object-cover"
+  className="w-full h-[100px] object-cover"
 />
 
 <h1 align="left">Hi, I'm Mizanur Malita</h1>
