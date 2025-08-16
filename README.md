@@ -1,8 +1,7 @@
 <img 
   src="https://i.postimg.cc/zGSMdMXL/Chat-GPT-Image-Aug-16-2025-09-14-34-PM.png" 
-  className="w-full h-[100px] object-cover"
+  className="w-full h-[200px] object-cover"
 />
-
 <h1 align="left">Hi, I'm Mizanur Malita</h1>
 <img align="right" alt="coding" width="250" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 <h3 align="left">Frontend Developer</h3>
