@@ -1,6 +1,7 @@
 <h1 align="left">Hi, I'm Mizanur Malita</h1>
 <h3 align="left">Frontend Developer</h3>
 <h3 align="left">About Me</h3>
+<p align="left">I am a Frontend Developer from Bangladesh, building responsive web applications using React and modern UI frameworks. I love turning ideas into real digital products and am always eager to learn and collaborate on new projects.</p>
 <p align="left">Hi, I’m MD Mizanur Malita, a passionate Frontend Developer from Bangladesh. 
 Skilled in React & Tailwind CSS. Currently exploring Next.js for modern web applications.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mizanur2734&label=Profile%20views&color=0e75b6&style=flat" alt="mizanur2734" /> </p>
