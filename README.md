@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on [car-rental](https://car-rental-tcj.netlify.app/#booking)
 
-- 🌱 I’m currently learning **Next.js & React**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **React Open Source**
 
